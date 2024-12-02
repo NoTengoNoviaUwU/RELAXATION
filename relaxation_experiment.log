@@ -1,0 +1,8 @@
+2024-11-20 13:57:01,057 - INFO - Stream de marcadores configurado
+2024-11-20 13:57:01,064 - INFO - Stream EEG configurado
+2024-11-20 13:57:01,071 - INFO - Stream de relajación configurado
+2024-11-20 13:57:01,077 - INFO - Stream de Unity configurado
+2024-11-20 13:57:01,111 - INFO - Inlet de poder EEG configurado
+2024-11-20 13:57:01,307 - ERROR - Critical error in experiment: 'RealTimeRelaxationExperiment' object has no attribute 'start_experiment'
+2024-11-20 13:57:01,308 - INFO - 
+Experiment session ended
